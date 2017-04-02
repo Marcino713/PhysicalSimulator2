@@ -1,18 +1,17 @@
 # PhysicalSimulator2
 Simulator of electric and gravitational field. Program uses Direct3D to render 3D graphics.
 
-WARNING: This program is unfinished, so it may contains bugs or some functions might not working correctly.
+WARNING: This program is unfinished, so it may contains bugs or some functions might not working correctly.<br /><br />
 
-
-Obs³uga programu za pomoc¹ klawiatury:
-W, S - przesuñ kamerê do przodu/do ty³u
-Z, X - przesuñ kamerê w lewo/prawo
-R, F - przesuñ kamerê w górê/dó³
-A, D - obróæ kamerê wokó³ osi Y
-T, G - obróæ kamerê wokó³ osi X
-Q, E - obróæ kamerê wokó³ osi Z
-F5 - prze³¹cz pe³ny ekran
-F6 - resetuj po³o¿enie kamery
-F7 - ustaw kamerê domyœln¹
-F8 - wyœrodkuj kamerê na zaznaczonym ciele
-F9 - ustaw kamerê zgodnie z wektorem prêdkoœci
+ObsÅ‚uga programu za pomocÄ… klawiatury:<br />
+W, S - przesuÅ„ kamerÄ™ do przodu/do tyÅ‚u<br />
+Z, X - przesuÅ„ kamerÄ™ w lewo/prawo<br />
+R, F - przesuÅ„ kamerÄ™ w gÃ³rÄ™/dÃ³Å‚<br />
+A, D - obrÃ³Ä‡ kamerÄ™ wokÃ³Å‚ osi Y<br />
+T, G - obrÃ³Ä‡ kamerÄ™ wokÃ³Å‚ osi X<br />
+Q, E - obrÃ³Ä‡ kamerÄ™ wokÃ³Å‚ osi Z<br />
+F5 - przeÅ‚Ä…cz peÅ‚ny ekran<br />
+F6 - resetuj poÅ‚oÅ¼enie kamery<br />
+F7 - ustaw kamerÄ™ domyÅ›lnÄ…<br />
+F8 - wyÅ›rodkuj kamerÄ™ na zaznaczonym ciele<br />
+F9 - ustaw kamerÄ™ zgodnie z wektorem prÄ™dkoÅ›ci
